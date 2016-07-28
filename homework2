@@ -1,0 +1,39 @@
+<!DOCTYPE html >
+	<head>
+		<meta  charset=utf-8" />
+		<title>Макет</title>
+	<link href ="css/style.css" type= "text/css rel = "stylesheet"/>
+	<style>
+	
+	.fig{
+            
+                  text-align: center;  
+                
+	}
+              
+	</style>
+	
+	</head>
+	<body>
+              <div>
+       	<h1 align="center">МАКСИМОВА ТАТЬЯНА ВЛАДИМИРОВНА</h1> 
+           
+	<p class="fig"><img  src="C:\Users\Вадим\Desktop\site\images\img1.jpg" width = "160" height = "160"alt ="foto" ></p>
+             <p>Специалист отдела продвижения  </p>
+             <h2>Хочу учить фронденд, потому что: </h2>
+              <ul> 
+	<p><li> работать удаленно </list></p>  
+             <p><li>больше зарабатывать </p>
+	  </ul>  
+              <h2>Мой контактный телефон: </h2>  
+               <p>+7(978)0110809 </p>
+               <h2>Мой профиль в Facebook: </h2>
+               <p>
+                <a href="https://www.facebook.com/tanya.max.125" >facebook.com </a> 
+               <h2>Мой фидбек:</h2> 
+	 <p>Я в IT полный нуль, но верю, что дорогу осилит идущий!</p>
+                 </div>
+
+	</body>
+  
+</html>
